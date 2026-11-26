@@ -36,7 +36,7 @@ FLIPPED 已归档。Windows 用户可以继续使用 **SnipArc**。
 | --- | --- |
 | **官网** | https://flipped.xmuli.tech/ |
 | **作品档案条目** | https://screenshot-archive.xmuli.tech/flipped/ |
-| **源码** | https://github.com/SunnyCapturer/FLIPPED |
+| **GitHub** | https://github.com/SunnyCapturer/FLIPPED |
 | **历史版本** | https://github.com/SunnyCapturer/FlippedPages/releases |
 
 ## 截图作品系列
