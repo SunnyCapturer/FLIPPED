@@ -1,7 +1,9 @@
+> **FLIPPED 是早期的截图工具。** [官网](https://flipped.xmuli.tech/zh-cn/) · [源码](https://github.com/SunnyCapturer/FLIPPED) · [SnipArc 下载](https://sniparc.mosuzo.com/zh-cn/download)
+
 <div align="center">
   <p>
       <h1>
-      <a href="https://github.com/SunnyScreenshot/FLIPPED">
+      <a href="https://github.com/SunnyCapturer/FLIPPED">
           <img src="snapshot/Flipped.svg"  alt="FLIPPED" />
       </a>
       <br/>
@@ -18,8 +20,6 @@
 
 <br>
 
-> **后续版本：**截图使用推荐：[Sunny Screenshot](https://sunny.xmuli.tech/)， 支持 OCR 提取文字和图片翻译功能。
->
 > **开发经验：** [如何开发一款截图软件呢？](https://sunny.xmuli.tech/article/how_develop_it.html)
 
 
@@ -40,7 +40,7 @@ ps：希望此项目的源码对你有参考价值，该项目的的 <font color
 
 <br>
 
-旧版本的二进制下载：[old releases](https://github.com/SunnyScreenshot/FlippedPages/releases)
+旧版本的二进制下载：[old releases](https://github.com/SunnyCapturer/FlippedPages/releases)
 
 
 
@@ -151,7 +151,7 @@ ps：希望此项目的源码对你有参考价值，该项目的的 <font color
 - **编译步骤:**
 
   ```bash
-  git clone --recursive https://github.com/XMuli/Flipped.git
+  git clone --recursive https://github.com/SunnyCapturer/FLIPPED.git
   cd Flipped
   mkdir build & cd build
   cmake ..
@@ -183,7 +183,7 @@ ps：希望此项目的源码对你有参考价值，该项目的的 <font color
 
 ## 反馈 & 贡献
 
-非常欢迎你的加入！对于此软件有任何缺陷、建议、功能想法、都可 [提一个 Issue](https://github.com/SunnyScreenshot/FLIPPED/issues) ；或者帮助此项目的完善，提交一个 Pull Request。
+非常欢迎你的加入！对于此软件有任何缺陷、建议、功能想法、都可 [提一个 Issue](https://github.com/SunnyCapturer/FLIPPED/issues) ；或者帮助此项目的完善，提交一个 Pull Request。
 
 请遵循 [Contributor Covenant](http://contributor-covenant.org/version/1/3/0/) 行为规范。
 
@@ -191,7 +191,7 @@ ps：希望此项目的源码对你有参考价值，该项目的的 <font color
 
 ## 版本下载
 
-<font color=#D0087E>→ 离线安装包下载 [Releases](https://github.com/SunnyScreenshot/FLIPPED/releases) ；</font>
+<font color=#D0087E>→ 离线安装包下载 [Releases](https://github.com/SunnyCapturer/FLIPPED/releases) ；</font>
 
 <font color=#D0087E>→ **反馈 BUG/SUGGEST，技术交流等，和最新 Sunny 版本安装包获取，在QQ群:[418103279 ](https://qm.qq.com/cgi-bin/qm/qr?k=jsD03QzMohGZm0TqYAFh3BvKOpCGlTcT&jump_from=webapi&authKey=DMUwiCQ6ta95PoH8JmtZ+Jz9y7Ozg3yinEsxmm92rNXZRVeMPD7NRgjU+dmUI8Xu)** </font>
 

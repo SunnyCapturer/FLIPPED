@@ -1,7 +1,9 @@
+> **FLIPPED is a legacy screenshot tool.** [Website](https://flipped.xmuli.tech/) · [Source](https://github.com/SunnyCapturer/FLIPPED) · [SnipArc downloads](https://sniparc.mosuzo.com/download)
+
 <div align="center">
   <p>
       <h1>
-      <a href="https://github.com/SunnyScreenshot/FLIPPED">
+      <a href="https://github.com/SunnyCapturer/FLIPPED">
           <img src="snapshot/Flipped.svg"  alt="FLIPPED" />
       </a>
       <br/>
@@ -17,8 +19,6 @@
 
 <br>
 
-> **Next releases:** Recommended for: [Sunny Screenshot](https://sunny.xmuli.tech/), supports OCR for text extraction and image translation.
->
 > **Development experience:**  [How to develop a screenshot software?](https://sunny.xmuli.tech/article/how_develop_it.html)
 
 <br>
@@ -148,7 +148,7 @@ ps: I hope the source code of this project has reference value for you, and the 
 - **Compile Step:**
 
   ```bash
-  git clone --recursive https://github.com/XMuli/Flipped.git
+  git clone --recursive https://github.com/SunnyCapturer/FLIPPED.git
   cd Flipped
   mkdir build & cd build
   cmake ..
@@ -183,7 +183,7 @@ If it helps you, or find it useful, <font color=#FE7207  size=4 face="幼圆">yo
 
 Feedback & How to contribute
 
-You are very welcome to join us! You can [open an issue](https://github.com/SunnyScreenshot/FLIPPED/issues) ; for any bug, suggestion, feature idea, or to help improve this software. Or help improve the project by submitting a Pull Request.
+You are very welcome to join us! You can [open an issue](https://github.com/SunnyCapturer/FLIPPED/issues) ; for any bug, suggestion, feature idea, or to help improve this software. Or help improve the project by submitting a Pull Request.
 
 <br>
 
