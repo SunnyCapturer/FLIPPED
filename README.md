@@ -34,7 +34,7 @@ FLIPPED is archived. Windows users can continue with **SnipArc**.
 
 | | |
 | --- | --- |
-| **Project archive** | https://flipped.xmuli.tech/ |
+| **Website** | https://flipped.xmuli.tech/ |
 | **Archive entry** | https://screenshot-archive.xmuli.tech/flipped/ |
 | **Source** | https://github.com/SunnyCapturer/FLIPPED |
 | **Historical releases** | https://github.com/SunnyCapturer/FlippedPages/releases |
