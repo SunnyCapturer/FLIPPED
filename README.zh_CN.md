@@ -37,6 +37,28 @@ FLIPPED 是系列的第二件作品，也是野心更大的一次尝试：把简
 - 完全离线，无遥测、无联网功能
 - MIT 开源
 
+## 历史截图
+
+点击截图可查看原图。
+
+### macOS
+
+<p><a href="https://fastly.jsdelivr.net/gh/XMuli/xmuliPic@pic/2022/202303121457071.jpg"><img src="https://fastly.jsdelivr.net/gh/XMuli/xmuliPic@pic/2022/202303121457071.jpg" width="400" alt="macOS 截图 1"></a> <a href="https://fastly.jsdelivr.net/gh/XMuli/xmuliPic@pic/2022/202303121524707.jpg"><img src="https://fastly.jsdelivr.net/gh/XMuli/xmuliPic@pic/2022/202303121524707.jpg" width="400" alt="macOS 截图 2"></a></p>
+
+### Windows
+
+<p><a href="https://cdn.jsdelivr.net/gh/XMuli/xmuliPic@pic/2022/202303121616530.jpg"><img src="https://cdn.jsdelivr.net/gh/XMuli/xmuliPic@pic/2022/202303121616530.jpg" width="400" alt="Windows 截图 1"></a> <a href="https://fastly.jsdelivr.net/gh/XMuli/xmuliPic@pic/2022/202303121524281.jpg"><img src="https://fastly.jsdelivr.net/gh/XMuli/xmuliPic@pic/2022/202303121524281.jpg" width="400" alt="Windows 截图 2"></a></p>
+
+### Linux
+
+<p><a href="https://fastly.jsdelivr.net/gh/XMuli/xmuliPic@pic/2022/202303121447431.jpg"><img src="https://fastly.jsdelivr.net/gh/XMuli/xmuliPic@pic/2022/202303121447431.jpg" width="400" alt="Linux 截图 1"></a></p>
+
+### 其他界面截图
+
+<p><a href="https://fastly.jsdelivr.net/gh/XMuli/xmuliPic@pic/2022/202303121515818.jpg"><img src="https://fastly.jsdelivr.net/gh/XMuli/xmuliPic@pic/2022/202303121515818.jpg" width="400" alt="其他界面截图 截图 1"></a> <a href="https://fastly.jsdelivr.net/gh/XMuli/xmuliPic@pic/2022/202303121522838.jpg"><img src="https://fastly.jsdelivr.net/gh/XMuli/xmuliPic@pic/2022/202303121522838.jpg" width="400" alt="其他界面截图 截图 2"></a></p>
+
+[更多历史截图](./snapshot/)
+
 ## 状态
 
 FLIPPED 已归档。Windows 用户可以继续使用 **SnipArc**。

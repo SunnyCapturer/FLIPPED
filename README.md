@@ -37,6 +37,28 @@ The final release was v1.3.2. The code is MIT licensed and remains a useful refe
 - Fully offline, no telemetry or network features
 - MIT licensed
 
+## Historical screenshots
+
+Select a screenshot to view the original.
+
+### macOS
+
+<p><a href="https://fastly.jsdelivr.net/gh/XMuli/xmuliPic@pic/2022/202303121457071.jpg"><img src="https://fastly.jsdelivr.net/gh/XMuli/xmuliPic@pic/2022/202303121457071.jpg" width="400" alt="macOS screenshot 1"></a> <a href="https://fastly.jsdelivr.net/gh/XMuli/xmuliPic@pic/2022/202303121524707.jpg"><img src="https://fastly.jsdelivr.net/gh/XMuli/xmuliPic@pic/2022/202303121524707.jpg" width="400" alt="macOS screenshot 2"></a></p>
+
+### Windows
+
+<p><a href="https://cdn.jsdelivr.net/gh/XMuli/xmuliPic@pic/2022/202303121616530.jpg"><img src="https://cdn.jsdelivr.net/gh/XMuli/xmuliPic@pic/2022/202303121616530.jpg" width="400" alt="Windows screenshot 1"></a> <a href="https://fastly.jsdelivr.net/gh/XMuli/xmuliPic@pic/2022/202303121524281.jpg"><img src="https://fastly.jsdelivr.net/gh/XMuli/xmuliPic@pic/2022/202303121524281.jpg" width="400" alt="Windows screenshot 2"></a></p>
+
+### Linux
+
+<p><a href="https://fastly.jsdelivr.net/gh/XMuli/xmuliPic@pic/2022/202303121447431.jpg"><img src="https://fastly.jsdelivr.net/gh/XMuli/xmuliPic@pic/2022/202303121447431.jpg" width="400" alt="Linux screenshot 1"></a></p>
+
+### More interface screenshots
+
+<p><a href="https://fastly.jsdelivr.net/gh/XMuli/xmuliPic@pic/2022/202303121515818.jpg"><img src="https://fastly.jsdelivr.net/gh/XMuli/xmuliPic@pic/2022/202303121515818.jpg" width="400" alt="More interface screenshots screenshot 1"></a> <a href="https://fastly.jsdelivr.net/gh/XMuli/xmuliPic@pic/2022/202303121522838.jpg"><img src="https://fastly.jsdelivr.net/gh/XMuli/xmuliPic@pic/2022/202303121522838.jpg" width="400" alt="More interface screenshots screenshot 2"></a></p>
+
+[More archived screenshots](./snapshot/)
+
 ## Status
 
 FLIPPED is archived. Windows users can continue with **SnipArc**.
