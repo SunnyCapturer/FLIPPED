@@ -77,6 +77,10 @@ FLIPPED 已归档。Windows 用户可以继续使用 **SnipArc**。
 ShotX → FLIPPED → Sunny → SunnyCapturer → SnipArc。  
 [完整作品档案](https://screenshot-archive.xmuli.tech/)
 
+## 许可证
+
+本仓库的项目原创代码采用 [MIT 许可证](./LICENSE)。第三方组件适用各自的许可证。
+
 ## 联系
 
 - **Mosuzo 工作室** — https://mosuzo.com/

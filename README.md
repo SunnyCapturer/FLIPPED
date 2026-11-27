@@ -77,6 +77,10 @@ FLIPPED is archived. Windows users can continue with **SnipArc**.
 ShotX → FLIPPED → Sunny → SunnyCapturer → SnipArc.  
 [Full visual archive](https://screenshot-archive.xmuli.tech/)
 
+## License
+
+Original project code in this repository is available under the [MIT License](./LICENSE). Third-party components retain their own licenses.
+
 ## Contact
 
 - **Mosuzo Studio** — https://mosuzo.com/
